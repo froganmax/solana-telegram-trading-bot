@@ -3,8 +3,8 @@ Telegram Trading Bot to trade solana tokens on Raydium, Meteora, Orca, Pump.fun
 
 ## Contact Info
 
-Telegram: @web3wiza
-Discord: web3_wiza
+Telegram: https://t.me/frogansol
+Discord: m_solwiz
 
 You can always feel free to find me here for my help on other projects.
 
